@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot V2
+## Youssef Bot V2
 
 </div>
 
@@ -36,17 +36,17 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/Youssefbotrouss/DogeBot2/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/Youssefbotrouss/DogeBot2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/Youssefbotrouss/DogeBot2/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/Youssefbotrouss/DogeBot.git
 🦄 cd DogeBot2
 🦄 npm start
 ```
@@ -63,7 +63,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot2
+🦄 git clone https://github.com/Youssefbotrouss/DogeBot2
 🦄 cd DogeBot2
 🦄 ls
 🦄 rm -rf session.json
@@ -72,21 +72,21 @@ heroku/nodejs
 🦄 scan qr code within 15seconds
 ```
 ## `Installation Video`
-- Review video [Click here](https://youtu.be/zXvwqA8LvTw)
-- Tutorial video [Click here](https://youtu.be/B7DN5miMS3k)
+- Review video [Click here](https://youtu.be/)
+- Tutorial video [Click here](https://youtu.be/)
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+201289267791"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/G3a3AQndqS5J4XF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0rJ_0WYRyO3A)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
+* [`Memo`](https://github.com/Youssefbotrouss)
