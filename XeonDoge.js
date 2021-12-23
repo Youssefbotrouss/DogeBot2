@@ -1122,7 +1122,7 @@ if(isButton == 'igm'){
 reply('https://github.com/DGYoussef-Bot')
 }
 if(isButton == 'ytm'){
-reply('https://youtube.com/channel/Youssef botrouss)
+reply('https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
 }
 
    const sotoy = [
@@ -3211,7 +3211,7 @@ anu = `──────────────────
 NOTE : _DO NOT SELL BOT SCRIPT_
 ──────────────────
 *👇SCRIPT GITHUB LINK👇*
-https://github.com/Youssefbotrouss/DogeBot2
+https://github.com/Youssefbotrouss/Youssef-Bot2
 _BASE : Youssef-Bot Bot Inc._
 _ORI SCRIPT : Doge Bot Version 2_
 _OWNER : ${NamaOwner}_
@@ -3306,7 +3306,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
       {
         "urlButton": {
           "displayText": `Doge Bot Script`,
-          "url": "https://github.com/Youssefbotrouss/DogeBot2"
+          "url": "https://github.com/Youssefbotrouss/Youssef-Bot2"
         },
         "index": 0
       }
@@ -5253,7 +5253,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 🐶 ${prefix}ytmp4 [link yt]
 
 _Example:_
-#ytmp3 https://www.youtube.com/watch?v=Youssef botrouss
+#ytmp3 https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A
 
 _Note :_
 ytmp3 => Music
