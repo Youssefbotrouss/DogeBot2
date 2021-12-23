@@ -1122,7 +1122,7 @@ if(isButton == 'igm'){
 reply('https://github.com/DGYoussef-Bot')
 }
 if(isButton == 'ytm'){
-reply('https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A')
+reply('https://youtube.com/channel/Youssef botrouss)
 }
 
    const sotoy = [
@@ -5253,7 +5253,7 @@ if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted
 🐶 ${prefix}ytmp4 [link yt]
 
 _Example:_
-#ytmp3 https://www.youtube.com/watch?v=pT9U15nER7s
+#ytmp3 https://www.youtube.com/watch?v=Youssef botrouss
 
 _Note :_
 ytmp3 => Music
